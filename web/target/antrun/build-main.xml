@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="C:\Programs\Tomcat-7.0/webapps/animal" failonerror="false" overwrite="true">
+    <fileset dir="C:\InfoWise\Projects\fidelis\dev\animal\web/target/animal">
+      <include name="**/*"/>
+    </fileset>
+  </copy>
+</target>
+</project>

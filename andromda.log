@@ -1,0 +1,455 @@
+2022-04-03 18:05:20,135 INFO  [AndroMDA] - discovering namespaces -
+2022-04-03 18:05:20,281 INFO  [AndroMDA] found namespace --> 'emf-uml22'
+2022-04-03 18:05:20,283 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:20,413 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:20,430 INFO  [AndroMDA]   +  registering component 'repository'
+2022-04-03 18:05:20,523 INFO  [AndroMDA] found namespace --> 'hibernate'
+2022-04-03 18:05:20,523 INFO  [AndroMDA]   +  registering component 'cartridge'
+2022-04-03 18:05:20,580 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:20,613 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:20,618 INFO  [AndroMDA] found namespace --> 'java'
+2022-04-03 18:05:20,619 INFO  [AndroMDA]   +  registering component 'cartridge'
+2022-04-03 18:05:20,630 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:20,634 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:20,658 INFO  [AndroMDA] found namespace --> 'jsf2'
+2022-04-03 18:05:20,658 INFO  [AndroMDA]   +  registering component 'cartridge'
+2022-04-03 18:05:20,714 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:20,768 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:20,779 INFO  [AndroMDA] found namespace --> 'netBeansMDR'
+2022-04-03 18:05:20,780 INFO  [AndroMDA]   +  registering component 'repository'
+2022-04-03 18:05:20,880 INFO  [AndroMDA] found namespace --> 'spring'
+2022-04-03 18:05:20,881 INFO  [AndroMDA]   +  registering component 'cartridge'
+2022-04-03 18:05:20,924 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:20,969 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:20,980 INFO  [AndroMDA] found namespace --> 'uml-1.4'
+2022-04-03 18:05:20,981 INFO  [AndroMDA]   +  registering component 'metafacades'
+2022-04-03 18:05:21,063 INFO  [AndroMDA]   +  registering component 'profile'
+2022-04-03 18:05:21,068 INFO  [AndroMDA] found namespace --> 'validation'
+2022-04-03 18:05:21,069 INFO  [AndroMDA]   +  registering component 'translation-library'
+2022-04-03 18:05:22,655 INFO  [AndroMDA] - core initialization complete: 2.744[s] -
+2022-04-03 18:05:22,799 INFO  [AndroMDA] loading model --> 'file:C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml'
+2022-04-03 18:05:22,871 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml' 
+2022-04-03 18:05:23,322 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-persistence.profile.uml' 
+2022-04-03 18:05:23,937 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w' 
+2022-04-03 18:05:23,950 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Standard.profile.uml#_0' 
+2022-04-03 18:05:23,970 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Standard.profile.uml' 
+2022-04-03 18:05:24,076 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Ecore.profile.uml#_z1OFcHjqEdy8S4Cr8Rc_NA' 
+2022-04-03 18:05:24,092 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Ecore.profile.uml#_0' 
+2022-04-03 18:05:24,109 INFO  [AndroMDA] referenced model --> 'jar:file:/C:/Programs/repositoryFromJegs/org/eclipse/uml2/uml/resources/5.0.0-v20140602-0749/resources-5.0.0-v20140602-0749.jar!/profiles/Ecore.profile.uml' 
+2022-04-03 18:05:24,405 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.profile.uml' 
+2022-04-03 18:05:24,851 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.Validation_Profile.profile.uml' 
+2022-04-03 18:05:25,226 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml' 
+2022-04-03 18:05:25,401 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-common.profile.uml' 
+2022-04-03 18:05:25,450 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-service.profile.uml' 
+2022-04-03 18:05:25,478 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-presentation.profile.uml' 
+2022-04-03 18:05:25,569 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-common.profile.uml/' 
+2022-04-03 18:05:25,716 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-xml.profile.uml' 
+2022-04-03 18:05:25,747 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.MagicDraw_Profile.Traceability_customization.profile.uml' 
+2022-04-03 18:05:25,812 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.StandardProfileL3.profile.uml' 
+2022-04-03 18:05:25,842 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-webservice.profile.uml' 
+2022-04-03 18:05:25,882 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-messaging.profile.uml' 
+2022-04-03 18:05:25,929 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/andromda-process.profile.uml' 
+2022-04-03 18:05:25,992 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.StandardProfile.profile.uml' 
+2022-04-03 18:05:26,026 INFO  [AndroMDA] referenced model --> 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml' 
+2022-04-03 18:05:26,114 INFO  [AndroMDA] - loading complete: 3.45[s] -
+2022-04-03 18:05:26,115 INFO  [AndroMDA] - validating model -
+2022-04-03 18:05:28,137 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[null]
+2022-04-03 18:05:28,189 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[null]
+2022-04-03 18:05:28,219 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[null]
+2022-04-03 18:05:28,236 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[null]
+2022-04-03 18:05:28,266 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[null]
+2022-04-03 18:05:28,456 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.add.AddAnimalController]
+2022-04-03 18:05:28,493 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.AnimalController]
+2022-04-03 18:05:28,534 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.add.AddFeedController]
+2022-04-03 18:05:28,556 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.FeedController]
+2022-04-03 18:05:28,608 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.document.add.AddDocumentController]
+2022-04-03 18:05:29,139 INFO  [AndroMDA] - validation complete: 3.024[s] -
+2022-04-03 18:05:29,264 INFO  [AndroMDA] Processing cartridge spring on model C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml
+2022-04-03 18:05:29,273 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/roo/RooSingleEachTimeScript.roo.vsl with 92 metafacades from 3 model elements
+2022-04-03 18:05:29,512 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'roo-directory' is not defined in namespace spring
+2022-04-03 18:05:29,516 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/roo/RooSingleOnceScript.roo.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:29,527 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'roo-directory' is not defined in namespace spring
+2022-04-03 18:05:29,547 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'roo-directory' is not defined in namespace spring
+2022-04-03 18:05:29,555 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext.xml.vsl with 6 metafacades from 3 model elements
+2022-04-03 18:05:29,618 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/applicationContext.xml'
+2022-04-03 18:05:29,624 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-dataSource.xml.vsl with 6 metafacades from 2 model elements
+2022-04-03 18:05:29,638 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/applicationContext-dataSource.xml'
+2022-04-03 18:05:29,644 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-localDataSource.xml.vsl with 6 metafacades from 2 model elements
+2022-04-03 18:05:29,664 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/applicationContext-localDataSource.xml'
+2022-04-03 18:05:29,668 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-testDataSource.xml.vsl with 6 metafacades from 2 model elements
+2022-04-03 18:05:29,679 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/src/test/resources/applicationContext-testDataSource.xml'
+2022-04-03 18:05:29,686 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-server.xml.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:29,692 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/applicationContext-server.xml.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:29,698 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client.xml.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:29,700 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/applicationContext-server-authentication.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:29,703 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringDao.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:29,839 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalDao.java'
+2022-04-03 18:05:29,891 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedDao.java'
+2022-04-03 18:05:29,988 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentDao.java'
+2022-04-03 18:05:29,990 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoBase.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,207 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalDaoBase.java'
+2022-04-03 18:05:30,425 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedDaoBase.java'
+2022-04-03 18:05:30,703 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentDaoBase.java'
+2022-04-03 18:05:30,707 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,714 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SpringHibernateDaoImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,754 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/H2.java.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,778 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/test/java/org/andromda/dbtest/H2.java'
+2022-04-03 18:05:30,782 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/ehcache-server-authentication.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,785 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/AuthenticationDaoImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,788 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringMergeMappings.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,791 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client-authentication.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,793 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/applicationContext-client.properties.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,797 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/osgi/applicationContext-osgi-export.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,804 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'osgi' is not defined in namespace spring
+2022-04-03 18:05:30,807 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/osgi/applicationContext-osgi-import.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,817 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'osgi' is not defined in namespace spring
+2022-04-03 18:05:30,827 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/web.xml.vsl with 0 metafacades from 4 model elements
+2022-04-03 18:05:30,830 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/applicationContext-remoteEjb.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,841 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/applicationContext-localEjb.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,853 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/ejb-jar.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,893 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/ejb-jar.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,896 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/jboss.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,907 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/jboss.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,916 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/beanRefFactory.xml.vsl with 6 metafacades from 4 model elements
+2022-04-03 18:05:30,930 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/beanRefFactory.xml'
+2022-04-03 18:05:30,937 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/serverTestBeanRefFactory.xml.vsl with 0 metafacades from 3 model elements
+2022-04-03 18:05:30,940 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/serverTestBeanRefFactory.properties.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:30,947 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/SearchParameter.java.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,964 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/SearchParameter.java'
+2022-04-03 18:05:30,967 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/Search.java.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:30,988 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/Search.java'
+2022-04-03 18:05:30,991 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/search/PropertySearch.java.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,040 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/PropertySearch.java'
+2022-04-03 18:05:31,052 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/andromda/spring/PaginationResult.java'
+2022-04-03 18:05:31,055 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearch.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,110 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/CriteriaSearch.java'
+2022-04-03 18:05:31,113 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchProperties.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,153 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/CriteriaSearchProperties.java'
+2022-04-03 18:05:31,156 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchConfiguration.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,174 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/CriteriaSearchConfiguration.java'
+2022-04-03 18:05:31,177 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/HibernateSearchParameter.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,196 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/CriteriaSearchParameter.java'
+2022-04-03 18:05:31,199 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/hibernate/SearchCriteria.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,225 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/animal/AnimalCriteria.java'
+2022-04-03 18:05:31,237 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/feed/FeedCriteria.java'
+2022-04-03 18:05:31,252 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/document/DocumentCriteria.java'
+2022-04-03 18:05:31,255 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/presentation/hibernate/OpenSessionInViewFilter.java.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,266 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'open-session-in-view' is not defined in namespace spring
+2022-04-03 18:05:31,282 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/BeanLocator.java'
+2022-04-03 18:05:31,293 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'remoting-war-support' is not defined in namespace spring
+2022-04-03 18:05:31,303 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'remoting-war-support' is not defined in namespace spring
+2022-04-03 18:05:31,306 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/SpringRemotingWarMergeMappings.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,313 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/AuthenticatingHttpInvokerRequestExecutor.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,316 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionBean.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,364 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionRemote.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,366 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionRemoteHome.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,370 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionLocal.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,400 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/ejb/SpringSessionLocalHome.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,416 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceLocator.vsl with 3 metafacades from 2 model elements
+2022-04-03 18:05:31,436 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/ServiceLocator.java'
+2022-04-03 18:05:31,442 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceLocator.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:31,449 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringServerTest.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,451 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/ThisBeanFactory.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,459 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/remoting/client/SpringClientServiceLocator.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:31,462 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/richclient/SpringClientTest.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,464 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringClientExceptionHandlingAdvice.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,468 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringService.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,498 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalService.java'
+2022-04-03 18:05:31,511 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedService.java'
+2022-04-03 18:05:31,523 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentService.java'
+2022-04-03 18:05:31,525 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringService.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,533 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringWebServiceDelegator.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,536 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceBase.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,585 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalServiceBase.java'
+2022-04-03 18:05:31,611 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedServiceBase.java'
+2022-04-03 18:05:31,637 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentServiceBase.java'
+2022-04-03 18:05:31,640 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceBase.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,647 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringPrincipalStore.java.vsl with 3 metafacades from 2 model elements
+2022-04-03 18:05:31,667 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/PrincipalStore.java'
+2022-04-03 18:05:31,670 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringPrincipalStore.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,673 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'server' is not defined in namespace spring
+2022-04-03 18:05:31,681 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,715 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/SpringServiceImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,717 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/DefaultServiceException.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:31,732 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalServiceException.java'
+2022-04-03 18:05:31,738 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedServiceException.java'
+2022-04-03 18:05:31,746 INFO  [AndroMDA:spring] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentServiceException.java'
+2022-04-03 18:05:31,749 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/DefaultServiceException.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,762 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/jms/applicationContext-jms.xml.vsl with 0 metafacades from 4 model elements
+2022-04-03 18:05:31,765 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/jms/MessageListener.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,768 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/applicationContext-manageable.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,771 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudServiceLocator.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,779 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudService.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,782 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudServiceBase.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,785 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudServiceImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,788 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudSearchExample.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,792 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudDao.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,795 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudDaoBase.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,800 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/spring/crud/SpringCrudValueObject.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:31,869 INFO  [AndroMDA] Processing cartridge hibernate on model C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml
+2022-04-03 18:05:31,872 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntity.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,021 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/Animal.java'
+2022-04-03 18:05:32,197 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/Feed.java'
+2022-04-03 18:05:32,391 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/Document.java'
+2022-04-03 18:05:32,393 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,401 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalImpl.java'
+2022-04-03 18:05:32,405 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedImpl.java'
+2022-04-03 18:05:32,408 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentImpl.java'
+2022-04-03 18:05:32,411 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,438 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEntityPK.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,441 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEmbeddedValue.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,450 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/HibernateEmbeddedValueImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,463 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/andromda/persistence/hibernate/usertypes/HibernateByteBlobType.java'
+2022-04-03 18:05:32,475 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/andromda/persistence/hibernate/usertypes/HibernateStringClobType.java'
+2022-04-03 18:05:32,479 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/ejb-jar.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,525 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,528 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/jboss.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,535 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,539 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionEJBLocator.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,543 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,545 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionBean.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,558 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,570 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,581 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,584 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionBeanImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,592 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-impls' is not defined in namespace hibernate
+2022-04-03 18:05:32,597 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-impls' is not defined in namespace hibernate
+2022-04-03 18:05:32,606 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-impls' is not defined in namespace hibernate
+2022-04-03 18:05:32,610 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSession.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,615 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,621 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,627 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,630 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ejb/HibernateSessionHome.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,636 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,640 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,643 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,645 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,650 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/ehcache.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,655 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/ehcache.xml'
+2022-04-03 18:05:32,658 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/ejb/HibernateEntityFactory.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,670 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,684 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,708 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'session-beans' is not defined in namespace hibernate
+2022-04-03 18:05:32,712 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/persistence.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,719 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'configuration' is not defined in namespace hibernate
+2022-04-03 18:05:32,724 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/hibernate.cfg.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,729 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'configuration' is not defined in namespace hibernate
+2022-04-03 18:05:32,733 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/test/persistence-test.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,736 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'test-configuration' is not defined in namespace hibernate
+2022-04-03 18:05:32,739 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate/test/hibernate-test.cfg.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,746 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'test-configuration' is not defined in namespace hibernate
+2022-04-03 18:05:32,749 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/hibernate.hbm.xml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,784 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/Animal.hbm.xml'
+2022-04-03 18:05:32,824 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/Feed.hbm.xml'
+2022-04-03 18:05:32,858 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/Document.hbm.xml'
+2022-04-03 18:05:32,865 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/HibernateEnumeration.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,868 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate3/usertypes/HibernateEnumType.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:32,879 INFO  [AndroMDA:hibernate] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/andromda/persistence/hibernate/usertypes/HibernateEnumType.java'
+2022-04-03 18:05:32,884 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/ejb/HibernateEntityFactory.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,888 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/hibernate.cfg.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,891 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/hibernate.hbm.xml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,894 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/hibernate2/HibernateEnumeration.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:32,906 INFO  [AndroMDA] Processing cartridge java on model C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml
+2022-04-03 18:05:32,909 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Service.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:32,933 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/animal/AnimalService.java'
+2022-04-03 18:05:32,953 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/feed/FeedService.java'
+2022-04-03 18:05:32,973 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/target/src/main/java/org/fidelis/animal/model/document/DocumentService.java'
+2022-04-03 18:05:32,976 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ServiceImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:33,004 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ServiceImpl.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:33,022 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/src/main/java/org/fidelis/animal/model/animal/AnimalServiceImpl.java.ref'
+2022-04-03 18:05:33,026 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/src/main/java/org/fidelis/animal/model/feed/FeedServiceImpl.java.ref'
+2022-04-03 18:05:33,030 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../core/src/main/java/org/fidelis/animal/model/document/DocumentServiceImpl.java.ref'
+2022-04-03 18:05:33,032 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ValueObject.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:33,085 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/animal/AnimalVO.java'
+2022-04-03 18:05:33,119 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/feed/FeedVO.java'
+2022-04-03 18:05:33,169 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/document/DocumentVO.java'
+2022-04-03 18:05:33,178 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/ApplicationException.vsl with 0 metafacades from 2 model elements
+2022-04-03 18:05:33,179 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/UnexpectedException.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:33,182 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Enumeration.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:33,184 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/TypeSafeEnumeration.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:33,242 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/animal/AnimalType.java'
+2022-04-03 18:05:33,286 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/animal/AnimalBreed.java'
+2022-04-03 18:05:33,314 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/feed/FeedType.java'
+2022-04-03 18:05:33,333 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/document/DocumentType.java'
+2022-04-03 18:05:33,352 INFO  [AndroMDA:java] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/model/setting/RecordType.java'
+2022-04-03 18:05:33,358 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/Interface.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:33,366 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/java/InterfaceImpl.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:33,400 INFO  [AndroMDA] Processing cartridge jsf2 on model C:/InfoWise/Projects/fidelis/dev/animal/mda/src/main/uml/animal.uml
+2022-04-03 18:05:33,409 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/js/common.js'
+2022-04-03 18:05:33,413 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/js/custom.js'
+2022-04-03 18:05:33,417 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/js/key-events.js'
+2022-04-03 18:05:33,421 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/js/shortlinks.js'
+2022-04-03 18:05:33,426 INFO  [AndroMDA] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/components/setFocus.xhtml'
+2022-04-03 18:05:33,429 INFO  [AndroMDA] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/closeDialog.xhtml'
+2022-04-03 18:05:33,446 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/css/custom.css'
+2022-04-03 18:05:33,451 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/images/ajax-loader.gif'
+2022-04-03 18:05:33,455 INFO  [AndroMDA] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/components/useCaseDialog.xhtml'
+2022-04-03 18:05:33,459 INFO  [AndroMDA] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/resources/components/autoCompleteNew.xhtml'
+2022-04-03 18:05:33,469 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/configuration/web.xml.vsl with 5 metafacades from 3 model elements
+2022-04-03 18:05:33,494 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/WEB-INF/web.xml'
+2022-04-03 18:05:33,502 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/configuration/securityfilter-config.xml.vsl with 5 metafacades from 3 model elements
+2022-04-03 18:05:33,527 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/configuration/faces-config.xml.vsl with 15 metafacades from 6 model elements
+2022-04-03 18:05:33,553 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/WEB-INF/faces-config.xml'
+2022-04-03 18:05:33,577 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/ControllerBase.java'
+2022-04-03 18:05:33,591 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/CrudControllerBase.java'
+2022-04-03 18:05:33,600 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/forms/Form.java.vsl with 15 metafacades from 1 model elements
+2022-04-03 18:05:33,640 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/LoadOptionsForm.java'
+2022-04-03 18:05:33,653 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddForm.java'
+2022-04-03 18:05:33,666 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/SearchForm.java'
+2022-04-03 18:05:33,682 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/LoadForm.java'
+2022-04-03 18:05:33,691 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/EditForm.java'
+2022-04-03 18:05:33,696 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/CheckIdForm.java'
+2022-04-03 18:05:33,705 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/LoadOptionsForm.java'
+2022-04-03 18:05:33,718 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddForm.java'
+2022-04-03 18:05:33,733 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/SearchForm.java'
+2022-04-03 18:05:33,751 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/LoadForm.java'
+2022-04-03 18:05:33,764 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/EditForm.java'
+2022-04-03 18:05:33,770 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/CheckIdForm.java'
+2022-04-03 18:05:33,782 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/LoadOptionsForm.java'
+2022-04-03 18:05:33,792 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddForm.java'
+2022-04-03 18:05:33,797 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/CheckRecordTypeForm.java'
+2022-04-03 18:05:33,800 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/forms/FormImpl.java.vsl with 16 metafacades from 1 model elements
+2022-04-03 18:05:33,840 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddAnimalFormImpl.java'
+2022-04-03 18:05:33,859 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddAnimalSaveFormImpl.java'
+2022-04-03 18:05:33,917 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/ManageAnimalsFormImpl.java'
+2022-04-03 18:05:33,957 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/AnimalsSearchFormImpl.java'
+2022-04-03 18:05:33,981 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/AnimalsDetailsFormImpl.java'
+2022-04-03 18:05:34,003 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/AnimalSaveFormImpl.java'
+2022-04-03 18:05:34,018 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/AnimalAttachFormImpl.java'
+2022-04-03 18:05:34,061 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddFeedFormImpl.java'
+2022-04-03 18:05:34,084 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddFeedSaveFormImpl.java'
+2022-04-03 18:05:34,120 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/FeedsSearchFormImpl.java'
+2022-04-03 18:05:34,162 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/FeedsDetailsFormImpl.java'
+2022-04-03 18:05:34,186 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/FeedSaveFormImpl.java'
+2022-04-03 18:05:34,211 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/ManageFeedsFormImpl.java'
+2022-04-03 18:05:34,226 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/FeedAttachFormImpl.java'
+2022-04-03 18:05:34,255 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddDocumentFormImpl.java'
+2022-04-03 18:05:34,275 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddDocumentUploadFormImpl.java'
+2022-04-03 18:05:34,276 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/ControllerImpl.java.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:34,318 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/Controller.java.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:34,333 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.add.AddAnimalController]
+2022-04-03 18:05:34,334 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.add.AddAnimalController]
+2022-04-03 18:05:34,365 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddAnimalController.java'
+2022-04-03 18:05:34,366 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.AnimalController]
+2022-04-03 18:05:34,369 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.animal.AnimalController]
+2022-04-03 18:05:34,416 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/AnimalController.java'
+2022-04-03 18:05:34,416 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.add.AddFeedController]
+2022-04-03 18:05:34,419 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.add.AddFeedController]
+2022-04-03 18:05:34,438 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddFeedController.java'
+2022-04-03 18:05:34,439 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.FeedController]
+2022-04-03 18:05:34,443 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.feed.FeedController]
+2022-04-03 18:05:34,480 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/FeedController.java'
+2022-04-03 18:05:34,481 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.document.add.AddDocumentController]
+2022-04-03 18:05:34,483 WARN  [org.andromda.metafacades.emf.uml22.ClassifierFacadeLogicImpl] classifierNameMask not found in org.andromda.metafacades.emf.uml22.FrontEndControllerLogicImpl[org.fidelis.animal.web.document.add.AddDocumentController]
+2022-04-03 18:05:34,509 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddDocumentController.java'
+2022-04-03 18:05:34,513 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/SessionObject.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:34,519 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/messages/messages.properties.vsl with 6 metafacades from 3 model elements
+2022-04-03 18:05:34,668 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/WEB-INF/classes/message-resources.properties'
+2022-04-03 18:05:34,671 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/flow/ActionForward.java.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:34,690 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddAnimal.java'
+2022-04-03 18:05:34,695 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/ManageAnimals.java'
+2022-04-03 18:05:34,701 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddFeed.java'
+2022-04-03 18:05:34,708 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/ManageFeeds.java'
+2022-04-03 18:05:34,715 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddDocument.java'
+2022-04-03 18:05:34,718 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/converters/EnumerationConverter.java.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:34,730 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/model/animal/AnimalTypeJsfConverter.java'
+2022-04-03 18:05:34,734 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/model/animal/AnimalBreedJsfConverter.java'
+2022-04-03 18:05:34,740 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/model/feed/FeedTypeJsfConverter.java'
+2022-04-03 18:05:34,748 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/model/document/DocumentTypeJsfConverter.java'
+2022-04-03 18:05:34,754 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/model/setting/RecordTypeJsfConverter.java'
+2022-04-03 18:05:34,759 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/flow/LogOutServlet.java.vsl with 1 metafacades from 1 model elements
+2022-04-03 18:05:34,779 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/Messages.java'
+2022-04-03 18:05:34,836 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/JsfUtils.java'
+2022-04-03 18:05:34,850 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/UseCasePhaseListener.java'
+2022-04-03 18:05:34,860 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/JsfExceptionHandlerFactory.java'
+2022-04-03 18:05:34,887 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/JsfExceptionHandler.java'
+2022-04-03 18:05:34,906 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../common/target/src/main/java/org/fidelis/animal/ValidationException.java'
+2022-04-03 18:05:34,917 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/FacesContextUtils.java'
+2022-04-03 18:05:35,161 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/jsp/index.jsp.vsl with 1 metafacades from 2 model elements
+2022-04-03 18:05:35,172 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/index.jsp'
+2022-04-03 18:05:35,174 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/jsp/403.jsp.vsl with 1 metafacades from 1 model elements
+2022-04-03 18:05:35,180 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/403.jsp'
+2022-04-03 18:05:35,188 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/WEB-INF/ajsf.taglib.xml'
+2022-04-03 18:05:35,197 WARN  [org.andromda.core.configuration.Namespaces] WARNING! Namespaces 'default' and 'jsf2' have no property 'test' defined --> please define this property in AT LEAST ONE of these two namespaces.  If you want to 'ignore' this message, add the property to the namespace with ignore set to 'true'
+2022-04-03 18:05:35,197 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'test' is not defined in namespace jsf2
+2022-04-03 18:05:35,205 WARN  [org.andromda.core.configuration.Namespaces] WARNING! Namespaces 'default' and 'jsf2' have no property 'test' defined --> please define this property in AT LEAST ONE of these two namespaces.  If you want to 'ignore' this message, add the property to the namespace with ignore set to 'true'
+2022-04-03 18:05:35,205 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'test' is not defined in namespace jsf2
+2022-04-03 18:05:35,222 WARN  [org.andromda.core.configuration.Namespaces] WARNING! Namespaces 'default' and 'jsf2' have no property 'test' defined --> please define this property in AT LEAST ONE of these two namespaces.  If you want to 'ignore' this message, add the property to the namespace with ignore set to 'true'
+2022-04-03 18:05:35,223 WARN  [org.andromda.core.cartridge.Cartridge] Template outlet location 'test' is not defined in namespace jsf2
+2022-04-03 18:05:35,228 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/test/crud/CrudEditForm.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,234 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/view-hidden-parameters.xhtml.vsl with 3 metafacades from 1 model elements
+2022-04-03 18:05:35,245 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-attach-hidden-params.xhtml'
+2022-04-03 18:05:35,247 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-attach-hidden-params.xhtml'
+2022-04-03 18:05:35,251 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/document/add/add-document-upload-hidden-params.xhtml'
+2022-04-03 18:05:35,255 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/flow/crud/ActionForward.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,259 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/converters/crud/EntityConverter.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,262 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/crud/Controller.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,264 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/crud/SearchFilter.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,269 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/crud/ControllerImpl.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,271 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/controllers/crud/ControllerImpl.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,277 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/forms/crud/Form.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,279 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/forms/crud/SearchForm.java.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,284 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/crud-index.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,286 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/flow/UseCaseViewPopulator.java.vsl with 5 metafacades from 1 model elements
+2022-04-03 18:05:35,316 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/add/AddAnimalViewPopulator.java'
+2022-04-03 18:05:35,355 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/animal/ManageAnimalsViewPopulator.java'
+2022-04-03 18:05:35,363 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/add/AddFeedViewPopulator.java'
+2022-04-03 18:05:35,400 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/feed/ManageFeedsViewPopulator.java'
+2022-04-03 18:05:35,408 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/java/org/fidelis/animal/web/document/add/AddDocumentViewPopulator.java'
+2022-04-03 18:05:35,420 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/view.xhtml.vsl with 7 metafacades from 1 model elements
+2022-04-03 18:05:35,476 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/layout/registration-layout.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,499 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/crud/view.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,501 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/crud/export-ods.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,504 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/login.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,521 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/view-action.xhtml.vsl with 15 metafacades from 1 model elements
+2022-04-03 18:05:35,567 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/view-table.xhtml.vsl with 4 metafacades from 1 model elements
+2022-04-03 18:05:35,594 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/trinidad/view-variables.xhtml.vsl with 7 metafacades from 1 model elements
+2022-04-03 18:05:35,608 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/view.xhtml.vsl with 7 metafacades from 1 model elements
+2022-04-03 18:05:35,619 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/add/add-animal.xhtml'
+2022-04-03 18:05:35,621 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animals.xhtml'
+2022-04-03 18:05:35,625 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal.xhtml'
+2022-04-03 18:05:35,630 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/add/add-feed.xhtml'
+2022-04-03 18:05:35,634 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feeds.xhtml'
+2022-04-03 18:05:35,638 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed.xhtml'
+2022-04-03 18:05:35,642 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/document/add/add-document.xhtml'
+2022-04-03 18:05:35,663 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/layout.xhtml'
+2022-04-03 18:05:35,673 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/layout-crud.xhtml'
+2022-04-03 18:05:35,679 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/layout/navigation.xhtml.vsl with 5 metafacades from 2 model elements
+2022-04-03 18:05:35,691 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/navigation.xhtml'
+2022-04-03 18:05:35,694 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/layout/registration-layout.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,702 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/header.xhtml'
+2022-04-03 18:05:35,708 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/head.xhtml'
+2022-04-03 18:05:35,717 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/layout/footer.xhtml'
+2022-04-03 18:05:35,719 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/crud/view.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,724 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/login.xhtml.vsl with 0 metafacades from 1 model elements
+2022-04-03 18:05:35,735 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/login.xhtml'
+2022-04-03 18:05:35,738 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/view-action.xhtml.vsl with 15 metafacades from 1 model elements
+2022-04-03 18:05:35,749 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/add/add-animal-save.xhtml'
+2022-04-03 18:05:35,752 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/add/add-animal-back.xhtml'
+2022-04-03 18:05:35,759 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animals-search.xhtml'
+2022-04-03 18:05:35,767 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-save.xhtml'
+2022-04-03 18:05:35,771 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animals-add-animal.xhtml'
+2022-04-03 18:05:35,778 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-list.xhtml'
+2022-04-03 18:05:35,784 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-attach.xhtml'
+2022-04-03 18:05:35,791 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/add/add-feed-save.xhtml'
+2022-04-03 18:05:35,796 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/add/add-feed-back.xhtml'
+2022-04-03 18:05:35,801 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feeds-search.xhtml'
+2022-04-03 18:05:35,806 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-save.xhtml'
+2022-04-03 18:05:35,810 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-list.xhtml'
+2022-04-03 18:05:35,815 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feeds-add-feed.xhtml'
+2022-04-03 18:05:35,819 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-attach.xhtml'
+2022-04-03 18:05:35,827 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/document/add/add-document-upload.xhtml'
+2022-04-03 18:05:35,833 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/view-table.xhtml.vsl with 4 metafacades from 1 model elements
+2022-04-03 18:05:35,848 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animals-animals.xhtml'
+2022-04-03 18:05:35,854 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-documents.xhtml'
+2022-04-03 18:05:35,860 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feeds-feeds.xhtml'
+2022-04-03 18:05:35,862 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-documents.xhtml'
+2022-04-03 18:05:35,866 INFO  [org.andromda.core.cartridge.Cartridge] Processing templates/jsf2/views/facelets/primefaces/view-variables.xhtml.vsl with 7 metafacades from 1 model elements
+2022-04-03 18:05:35,878 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/add/add-animal-vars.xhtml'
+2022-04-03 18:05:35,882 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animals-vars.xhtml'
+2022-04-03 18:05:35,885 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/animal/animal-vars.xhtml'
+2022-04-03 18:05:35,889 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/add/add-feed-vars.xhtml'
+2022-04-03 18:05:35,894 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feeds-vars.xhtml'
+2022-04-03 18:05:35,898 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/feed/feed-vars.xhtml'
+2022-04-03 18:05:35,902 INFO  [AndroMDA:jsf2] Output: 'file:/C:/InfoWise/Projects/fidelis/dev/animal/mda/../web/target/src/main/webapp/org/fidelis/animal/web/document/add/add-document-vars.xhtml'
+2022-04-03 18:05:35,957 INFO  [AndroMDA] completed model processing --> TIME: 13.301[s], RESOURCES WRITTEN: 276
